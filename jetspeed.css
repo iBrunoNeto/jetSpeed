@@ -9,3 +9,13 @@ body {
     margin: 0 auto;
     overflow: auto;
 }
+
+header {
+    text-align: center;
+    width: 100%;
+}
+nav {
+    font-weight: bold;
+    background-image: url("images/blacktile.jpeg");
+    background-repeat: repeat-x;
+}

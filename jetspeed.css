@@ -19,3 +19,9 @@ nav {
     background-image: url("images/blacktile.jpeg");
     background-repeat: repeat-x;
 }
+
+nav ul, footer ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 20px 0px;
+}

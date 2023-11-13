@@ -130,4 +130,30 @@ main tr:nth-child(even) {
     color: white;
 }
 
+footer {
+    text-align: center;
+    width: 100%;
+    background-color: #232244;
+    color: white;
+}
 
+footer a {
+    color: white;
+}
+
+#ContactUs {
+    width: 150px;
+    height: 30px;
+    background-color: #26244B;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+#ContactUs a {
+    text-decoration: none;
+    color: white;
+}

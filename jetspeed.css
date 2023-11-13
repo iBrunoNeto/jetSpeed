@@ -102,3 +102,32 @@ main img {
 .clearFloat {
     clear: both;
 }
+
+main table {
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main th, main td {
+    padding: 20px;
+    border: 1px solid lightgray;
+}
+
+main th {
+    background-color: #505E67;
+    color: white;
+    font-size: 1.2em;
+}
+
+main  tr:nth-child(odd) {
+    background-color: #E6E6E6;
+}
+
+main tr:nth-child(even) {
+    background-color: #232244;
+    color: white;
+}
+
+

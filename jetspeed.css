@@ -25,3 +25,9 @@ nav ul, footer ul {
     margin: 0px;
     padding: 20px 0px;
 }
+
+nav li, nav footer li {
+    display: inline;
+    margin: 20px;
+    text-transform: uppercase;
+}

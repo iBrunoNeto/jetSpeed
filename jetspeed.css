@@ -88,3 +88,17 @@ main img {
     padding-top: 5px;
     padding-right: 10px
 }
+
+.floatLeft {
+    margin-left: 15%;
+    float: left;
+}
+
+.floatRight {
+    margin-right: 15%;
+    float: right;
+}
+
+.clearFloat {
+    clear: both;
+}
